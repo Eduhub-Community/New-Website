@@ -535,6 +535,11 @@ section {
   font-weight: 600;
   font-size: 26px;
 }
+
+.features .content p {
+  font-size: 1.6rem;
+}
+
 .features .content ul {
   list-style: none;
   padding: 0;
