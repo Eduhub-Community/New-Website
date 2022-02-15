@@ -445,7 +445,7 @@ section {
 .about {
   background: #466393;
   background-size: cover;
-  padding: 60px 0;
+  padding: 45px 0;
   position: relative;
   color: #fff;
 }
@@ -882,14 +882,17 @@ section {
 --------------------------------------------------------------*/
 .team {
   background: #fff;
-  padding: 60px 0;
+  padding: 35px 0;
+
 }
+
 .team .member {
   text-align: center;
   margin-bottom: 20px;
   background: #343a40;
   position: relative;
   overflow: hidden;
+
 }
 .team .member .member-info {
   opacity: 0;
@@ -899,6 +902,7 @@ section {
   left: 0;
   right: 0;
   transition: 0.2s;
+  
 }
 .team .member .member-info-content {
   position: absolute;
