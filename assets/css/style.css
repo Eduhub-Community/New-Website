@@ -463,7 +463,7 @@ section {
 }
 .about .content .about-btn {
   display: inline-block;
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.945);
   padding: 6px 30px 8px 30px;
   color: #fff;
   border-radius: 50px;
@@ -472,8 +472,10 @@ section {
 .about .content .about-btn i {
   font-size: 14px;
 }
+
 .about .content .about-btn:hover {
-  background: rgba(255, 255, 255, 0.1);
+  background: #b6bdfc;
+
 }
 .about .icon-boxes .icon-box {
   margin-top: 30px;
@@ -895,7 +897,7 @@ section {
   background: #343a40;
   position: relative;
   overflow: hidden;
-
+  
 }
 .team .member .member-info {
   opacity: 0;
