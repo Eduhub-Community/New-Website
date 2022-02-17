@@ -659,7 +659,7 @@ section {
 --------------------------------------------------------------*/
 .event .event-item {
   margin-bottom: 30px;
-  padding: 40px;
+  padding: 30px;
 }
 .event #event-flters {
   padding: 0;
@@ -675,7 +675,7 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #444444;
+  color: #ffffff;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
   border-radius: 3px;
@@ -692,11 +692,11 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(45, 64, 95, 0.6);
+  background: rgba(140, 155, 173, 0.6);
 }
 .event .event-wrap::before {
   content: "";
-  background: rgba(45, 64, 95, 0.6);
+  background: rgba(27, 28, 29, 0.6);
   position: absolute;
   left: 0;
   right: 0;
@@ -722,7 +722,7 @@ section {
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-start;
-  padding: 20px;
+  padding: 10px;
 }
 .event .event-wrap .event-info h4 {
   font-size: 20px;
@@ -749,18 +749,17 @@ section {
   transition: 0.3s;
 }
 .event .event-wrap .event-links a:hover {
-  color: #9da7fc;
+  color: #1b1c20;
 }
 .event .event-wrap:hover::before {
   opacity: 1;
 }
 .event .event-wrap:hover img {
-  transform: scale(1.2);
+  transform: scale(1.03);
 }
 .event .event-wrap:hover .event-info {
   opacity: 1;
 }
-
 
 /*--------------------------------------------------------------
 # Portfolio Details
