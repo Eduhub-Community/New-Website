@@ -890,12 +890,16 @@ section {
 }
 
 .founder-img{
-  width: 25rem;
+  width: 13rem;
+  border-radius: 10%;
 }
 
 .view-team{
-  margin-left: 34rem;
+  margin-top: -1%;
+  text-align: center;
+  margin-left: 35.5%;
   width: 30%;
+  align-content: center;
 }
 
 .team .member {
