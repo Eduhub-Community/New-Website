@@ -784,7 +784,7 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #3b4ef8;
 }
-.portfolio-details .portfolio-info {
+.portfolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(45, 64, 95, 0.08);
 }
@@ -1422,4 +1422,9 @@ section {
 .button-register:hover{
   transform: scale(1.02);
   background-color: #9da7fc;
+}
+
+/* INTERNSHIPS */
+.internship-imgs{
+  border-radius: 5px;
 }
