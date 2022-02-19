@@ -886,17 +886,24 @@ section {
 --------------------------------------------------------------*/
 .team {
   background: #fff;
-  padding: 35px 0;
+  padding: 35px 7rem;
+}
 
+.founder-img{
+  width: 25rem;
+}
+
+.view-team{
+  margin-left: 34rem;
+  width: 30%;
 }
 
 .team .member {
   text-align: center;
   margin-bottom: 20px;
-  background: #343a40;
+  /* background: #343a40; */
   position: relative;
   overflow: hidden;
-  
 }
 .team .member .member-info {
   opacity: 0;
