@@ -447,6 +447,51 @@ section {
 .section-title p {
   margin-bottom: 0;
 }
+@media (max-width: 500px) {
+  .section-title p {
+   font-size:15px;
+  }
+  section {
+    padding: 30px 0;
+    overflow: hidden;
+  }
+  
+  
+}
+@media (max-width: 420px) {
+  .section-title p {
+   font-size:12px;
+  }
+  section {
+    padding: 20px 0;
+    overflow: hidden;
+  }
+  
+  
+}
+@media (max-width: 370px) {
+  .section-title p {
+   font-size:10px;
+  }
+  
+  section {
+    padding: 20px 0;
+    overflow: hidden;
+  }
+  
+}
+@media (max-width: 350px) {
+  .section-title p {
+   font-size:8px;
+  }
+  section {
+    padding: 20px 0;
+    overflow: hidden;
+  }
+  
+  
+}
+
 
 
 
