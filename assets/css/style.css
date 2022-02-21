@@ -653,19 +653,19 @@ section {
   margin-bottom: 0;
 }
 
-
 /*--------------------------------------------------------------
 # Events
 --------------------------------------------------------------*/
 .event .event-item {
   margin-bottom: 30px;
-  padding: 30px;
+  padding: 10px;
 }
 .event #event-flters {
   padding: 0;
   margin: 0 auto 20px auto;
   list-style: none;
   text-align: center;
+  
 }
 .event #event-flters li {
   cursor: pointer;
@@ -693,6 +693,7 @@ section {
   overflow: hidden;
   z-index: 1;
   background: rgba(140, 155, 173, 0.6);
+  border-radius: 10px;
 }
 .event .event-wrap::before {
   content: "";
@@ -759,6 +760,12 @@ section {
 }
 .event .event-wrap:hover .event-info {
   opacity: 1;
+}
+
+.Event-page{
+  text-align: center;
+  margin: auto;
+  width: 50%;
 }
 
 /*--------------------------------------------------------------
