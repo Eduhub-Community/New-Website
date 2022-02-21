@@ -901,7 +901,13 @@ section {
   width: 25%;
   /* align-content: center; */
 }
-
+.btn-work {
+  width: 250px;
+  height: 50px;
+  margin: 0 auto;
+  vertical-align: middle;
+  text-align: center;
+}
 .team .member {
   text-align: center;
   margin-bottom: 20px;
