@@ -895,11 +895,11 @@ section {
 }
 
 .view-team{
-  margin-top: -1%;
+  /* margin-top: -1%; */
   text-align: center;
-  margin-left: 35.5%;
-  width: 30%;
-  align-content: center;
+  margin: auto;
+  width: 25%;
+  /* align-content: center; */
 }
 
 .team .member {
@@ -977,7 +977,7 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
-.pricing .box {
+/* .pricing .box {
   padding: 20px;
   background: #fff;
   text-align: center;
@@ -1065,7 +1065,7 @@ section {
 .pricing .featured .btn-buy:hover {
   background: #fff;
   color: #4e6fa4;
-}
+} */
 
 /*--------------------------------------------------------------
 # Frequently Asked Questions
