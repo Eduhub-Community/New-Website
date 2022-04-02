@@ -40,10 +40,10 @@ body {
 
         }
 
-        h1 {
+/*         #blinking {
             color: yellow;
             animation: blinkText 1s infinite;
-        }
+        } */
 
         @keyframes blinkText {
             0% {
