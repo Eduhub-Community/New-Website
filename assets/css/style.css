@@ -14,6 +14,7 @@ body {
 }
 /***********************blinking buttton*********************************/
   button {
+    margin-top:10px;
             height: 50px;
             width: 170px;
             border-radius: 30px;
